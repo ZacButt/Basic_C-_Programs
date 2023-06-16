@@ -1,0 +1,8 @@
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\AcmeStudiosProject\AcmeStudiosProject\bin\Debug\AcmeStudiosProject.exe.config
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\AcmeStudiosProject\AcmeStudiosProject\bin\Debug\AcmeStudiosProject.exe
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\AcmeStudiosProject\AcmeStudiosProject\bin\Debug\AcmeStudiosProject.pdb
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\AcmeStudiosProject\AcmeStudiosProject\obj\Debug\AcmeStudiosProject.csproj.AssemblyReference.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\AcmeStudiosProject\AcmeStudiosProject\obj\Debug\AcmeStudiosProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\AcmeStudiosProject\AcmeStudiosProject\obj\Debug\AcmeStudiosProject.csproj.CoreCompileInputs.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\AcmeStudiosProject\AcmeStudiosProject\obj\Debug\AcmeStudiosProject.exe
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\AcmeStudiosProject\AcmeStudiosProject\obj\Debug\AcmeStudiosProject.pdb
