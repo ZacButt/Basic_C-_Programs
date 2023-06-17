@@ -1,0 +1,8 @@
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\TechAcademyStudents\TechAcademyStudents\bin\Debug\TechAcademyStudents.exe.config
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\TechAcademyStudents\TechAcademyStudents\bin\Debug\TechAcademyStudents.exe
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\TechAcademyStudents\TechAcademyStudents\bin\Debug\TechAcademyStudents.pdb
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\TechAcademyStudents\TechAcademyStudents\obj\Debug\TechAcademyStudents.csproj.AssemblyReference.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\TechAcademyStudents\TechAcademyStudents\obj\Debug\TechAcademyStudents.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\TechAcademyStudents\TechAcademyStudents\obj\Debug\TechAcademyStudents.csproj.CoreCompileInputs.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\TechAcademyStudents\TechAcademyStudents\obj\Debug\TechAcademyStudents.exe
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\TechAcademyStudents\TechAcademyStudents\obj\Debug\TechAcademyStudents.pdb
