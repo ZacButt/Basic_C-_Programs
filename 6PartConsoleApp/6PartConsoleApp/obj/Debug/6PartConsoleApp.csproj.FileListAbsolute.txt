@@ -1,0 +1,8 @@
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\6PartConsoleApp\6PartConsoleApp\bin\Debug\6PartConsoleApp.exe.config
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\6PartConsoleApp\6PartConsoleApp\bin\Debug\6PartConsoleApp.exe
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\6PartConsoleApp\6PartConsoleApp\bin\Debug\6PartConsoleApp.pdb
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\6PartConsoleApp\6PartConsoleApp\obj\Debug\6PartConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\6PartConsoleApp\6PartConsoleApp\obj\Debug\6PartConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\6PartConsoleApp\6PartConsoleApp\obj\Debug\6PartConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\6PartConsoleApp\6PartConsoleApp\obj\Debug\6PartConsoleApp.exe
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\6PartConsoleApp\6PartConsoleApp\obj\Debug\6PartConsoleApp.pdb
