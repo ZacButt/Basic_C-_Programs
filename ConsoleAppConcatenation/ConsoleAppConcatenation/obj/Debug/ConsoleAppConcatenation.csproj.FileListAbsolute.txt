@@ -1,0 +1,8 @@
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\ConsoleAppConcatenation\ConsoleAppConcatenation\bin\Debug\ConsoleAppConcatenation.exe.config
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\ConsoleAppConcatenation\ConsoleAppConcatenation\bin\Debug\ConsoleAppConcatenation.exe
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\ConsoleAppConcatenation\ConsoleAppConcatenation\bin\Debug\ConsoleAppConcatenation.pdb
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\ConsoleAppConcatenation\ConsoleAppConcatenation\obj\Debug\ConsoleAppConcatenation.csproj.AssemblyReference.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\ConsoleAppConcatenation\ConsoleAppConcatenation\obj\Debug\ConsoleAppConcatenation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\ConsoleAppConcatenation\ConsoleAppConcatenation\obj\Debug\ConsoleAppConcatenation.csproj.CoreCompileInputs.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\ConsoleAppConcatenation\ConsoleAppConcatenation\obj\Debug\ConsoleAppConcatenation.exe
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\ConsoleAppConcatenation\ConsoleAppConcatenation\obj\Debug\ConsoleAppConcatenation.pdb
