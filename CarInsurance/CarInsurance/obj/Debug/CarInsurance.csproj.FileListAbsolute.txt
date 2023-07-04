@@ -1,0 +1,8 @@
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\CarInsurance\CarInsurance\bin\Debug\CarInsurance.exe.config
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\CarInsurance\CarInsurance\bin\Debug\CarInsurance.exe
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\CarInsurance\CarInsurance\bin\Debug\CarInsurance.pdb
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\CarInsurance\CarInsurance\obj\Debug\CarInsurance.csproj.AssemblyReference.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\CarInsurance\CarInsurance\obj\Debug\CarInsurance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\CarInsurance\CarInsurance\obj\Debug\CarInsurance.csproj.CoreCompileInputs.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\CarInsurance\CarInsurance\obj\Debug\CarInsurance.exe
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\CarInsurance\CarInsurance\obj\Debug\CarInsurance.pdb
