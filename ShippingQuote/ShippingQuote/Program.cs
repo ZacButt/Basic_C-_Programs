@@ -14,35 +14,30 @@ namespace PackageExpress
             if (weight > 50)
             {
                 Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day.");
-                // Wait for user input before closing the console window
-                Console.WriteLine("Press any key to exit...");
-                Console.ReadKey();
-                return;
             }
-
-            Console.WriteLine("Please enter the package width:");
-            double width = Convert.ToDouble(Console.ReadLine());
-
-            Console.WriteLine("Please enter the package height:");
-            double height = Convert.ToDouble(Console.ReadLine());
-
-            Console.WriteLine("Please enter the package length:");
-            double length = Convert.ToDouble(Console.ReadLine());
-
-            double dimensionsTotal = width + height + length;
-
-            if (dimensionsTotal > 50)
+            else
             {
-                Console.WriteLine("Package too big to be shipped via Package Express.");
-                // Wait for user input before closing the console window
-                Console.WriteLine("Press any key to exit...");
-                Console.ReadKey();
-                return;
+                Console.WriteLine("Please enter the package width:");
+                double width = Convert.ToDouble(Console.ReadLine());
+
+                Console.WriteLine("Please enter the package height:");
+                double height = Convert.ToDouble(Console.ReadLine());
+
+                Console.WriteLine("Please enter the package length:");
+                double length = Convert.ToDouble(Console.ReadLine());
+
+                double dimensionsTotal = width * height * length;
+
+                if (dimensionsTotal > 50)
+                {
+                    Console.WriteLine("Package too big to be shipped via Package Express.");
+                }
+                else
+                {
+                    double quote = (dimensionsTotal * weight) / 100;
+                    Console.WriteLine("Your estimated total for shipping this package is: $" + quote.ToString("F2"));
+                }
             }
-
-            double quote = (dimensionsTotal * weight) / 100;
-
-            Console.WriteLine("Your estimated total for shipping this package is: $" + quote.ToString("F2"));
 
             // Wait for user input before closing the console window
             Console.WriteLine("Press any key to exit...");
