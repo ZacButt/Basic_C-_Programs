@@ -1,0 +1,8 @@
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\BooleanWhileStatement\BooleanWhileStatement\bin\Debug\BooleanWhileStatement.exe.config
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\BooleanWhileStatement\BooleanWhileStatement\bin\Debug\BooleanWhileStatement.exe
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\BooleanWhileStatement\BooleanWhileStatement\bin\Debug\BooleanWhileStatement.pdb
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\BooleanWhileStatement\BooleanWhileStatement\obj\Debug\BooleanWhileStatement.csproj.AssemblyReference.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\BooleanWhileStatement\BooleanWhileStatement\obj\Debug\BooleanWhileStatement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\BooleanWhileStatement\BooleanWhileStatement\obj\Debug\BooleanWhileStatement.csproj.CoreCompileInputs.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\BooleanWhileStatement\BooleanWhileStatement\obj\Debug\BooleanWhileStatement.exe
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\BooleanWhileStatement\BooleanWhileStatement\obj\Debug\BooleanWhileStatement.pdb
