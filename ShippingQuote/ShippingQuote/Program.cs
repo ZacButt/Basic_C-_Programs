@@ -28,7 +28,9 @@ namespace PackageExpress
 
                 double dimensionsTotal = width * height * length;
 
-                if (dimensionsTotal > 50)
+                double size = width + height + length;
+
+                if (size > 50)
                 {
                     Console.WriteLine("Package too big to be shipped via Package Express.");
                 }
