@@ -1,0 +1,8 @@
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\IntegersApp\IntegersApp\bin\Debug\IntegersApp.exe.config
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\IntegersApp\IntegersApp\bin\Debug\IntegersApp.exe
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\IntegersApp\IntegersApp\bin\Debug\IntegersApp.pdb
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\IntegersApp\IntegersApp\obj\Debug\IntegersApp.csproj.AssemblyReference.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\IntegersApp\IntegersApp\obj\Debug\IntegersApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\IntegersApp\IntegersApp\obj\Debug\IntegersApp.csproj.CoreCompileInputs.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\IntegersApp\IntegersApp\obj\Debug\IntegersApp.exe
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\IntegersApp\IntegersApp\obj\Debug\IntegersApp.pdb
