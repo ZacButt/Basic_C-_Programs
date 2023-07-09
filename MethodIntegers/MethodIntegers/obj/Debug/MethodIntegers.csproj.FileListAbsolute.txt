@@ -1,0 +1,8 @@
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\MethodIntegers\MethodIntegers\bin\Debug\MethodIntegers.exe.config
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\MethodIntegers\MethodIntegers\bin\Debug\MethodIntegers.exe
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\MethodIntegers\MethodIntegers\bin\Debug\MethodIntegers.pdb
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\MethodIntegers\MethodIntegers\obj\Debug\MethodIntegers.csproj.AssemblyReference.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\MethodIntegers\MethodIntegers\obj\Debug\MethodIntegers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\MethodIntegers\MethodIntegers\obj\Debug\MethodIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\MethodIntegers\MethodIntegers\obj\Debug\MethodIntegers.exe
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\MethodIntegers\MethodIntegers\obj\Debug\MethodIntegers.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodIntegers", "MethodIntegers\MethodIntegers.csproj", "{585A2532-1E0C-4953-8998-A948F80E2F44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{585A2532-1E0C-4953-8998-A948F80E2F44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{585A2532-1E0C-4953-8998-A948F80E2F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{585A2532-1E0C-4953-8998-A948F80E2F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{585A2532-1E0C-4953-8998-A948F80E2F44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87096C26-CFB9-415B-8C32-60568788BF63}
+	EndGlobalSection
+EndGlobal
