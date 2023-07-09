@@ -1,0 +1,3 @@
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\OperatorsAssignment\OperatorsAssignment\obj\Debug\OperatorsAssignment.csproj.AssemblyReference.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\OperatorsAssignment\OperatorsAssignment\obj\Debug\OperatorsAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\OperatorsAssignment\OperatorsAssignment\obj\Debug\OperatorsAssignment.csproj.CoreCompileInputs.cache
