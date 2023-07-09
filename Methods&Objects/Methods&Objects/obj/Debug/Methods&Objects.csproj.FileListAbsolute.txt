@@ -1,0 +1,8 @@
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\Methods&Objects\Methods&Objects\bin\Debug\Methods&Objects.exe.config
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\Methods&Objects\Methods&Objects\bin\Debug\Methods&Objects.exe
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\Methods&Objects\Methods&Objects\bin\Debug\Methods&Objects.pdb
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\Methods&Objects\Methods&Objects\obj\Debug\Methods&Objects.csproj.AssemblyReference.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\Methods&Objects\Methods&Objects\obj\Debug\Methods&Objects.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\Methods&Objects\Methods&Objects\obj\Debug\Methods&Objects.csproj.CoreCompileInputs.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\Methods&Objects\Methods&Objects\obj\Debug\Methods&Objects.exe
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\Methods&Objects\Methods&Objects\obj\Debug\Methods&Objects.pdb
