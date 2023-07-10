@@ -1,0 +1,3 @@
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\StructAssignment\StructAssignment\obj\Debug\StructAssignment.csproj.AssemblyReference.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\StructAssignment\StructAssignment\obj\Debug\StructAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\StructAssignment\StructAssignment\obj\Debug\StructAssignment.csproj.CoreCompileInputs.cache
