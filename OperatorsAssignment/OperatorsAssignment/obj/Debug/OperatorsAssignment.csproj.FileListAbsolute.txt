@@ -1,3 +1,8 @@
 C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\OperatorsAssignment\OperatorsAssignment\obj\Debug\OperatorsAssignment.csproj.AssemblyReference.cache
 C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\OperatorsAssignment\OperatorsAssignment\obj\Debug\OperatorsAssignment.csproj.SuggestedBindingRedirects.cache
 C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\OperatorsAssignment\OperatorsAssignment\obj\Debug\OperatorsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\OperatorsAssignment\OperatorsAssignment\bin\Debug\OperatorsAssignment.exe.config
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\OperatorsAssignment\OperatorsAssignment\bin\Debug\OperatorsAssignment.exe
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\OperatorsAssignment\OperatorsAssignment\bin\Debug\OperatorsAssignment.pdb
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\OperatorsAssignment\OperatorsAssignment\obj\Debug\OperatorsAssignment.exe
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\OperatorsAssignment\OperatorsAssignment\obj\Debug\OperatorsAssignment.pdb
