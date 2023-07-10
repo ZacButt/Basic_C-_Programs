@@ -1,0 +1,8 @@
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\EnumAssignment\EnumAssignment\bin\Debug\EnumAssignment.exe.config
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\EnumAssignment\EnumAssignment\bin\Debug\EnumAssignment.exe
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\EnumAssignment\EnumAssignment\bin\Debug\EnumAssignment.pdb
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\EnumAssignment\EnumAssignment\obj\Debug\EnumAssignment.csproj.AssemblyReference.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\EnumAssignment\EnumAssignment\obj\Debug\EnumAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\EnumAssignment\EnumAssignment\obj\Debug\EnumAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\EnumAssignment\EnumAssignment\obj\Debug\EnumAssignment.exe
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\EnumAssignment\EnumAssignment\obj\Debug\EnumAssignment.pdb
