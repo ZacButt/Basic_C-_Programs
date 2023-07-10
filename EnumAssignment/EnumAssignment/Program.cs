@@ -25,10 +25,10 @@ namespace ConsoleApp
 
                 // Convert the user input to enum type
                 DayOfWeek currentDay;
-                Enum.TryParse(userInput, out currentDay);
+                bool isParsed = Enum.TryParse(userInput, out currentDay);
 
-                // Check if the input is a valid day of the week
-                if (Enum.IsDefined(typeof(DayOfWeek), currentDay))
+                // Check if the input is successfully parsed and a valid day of the week
+                if (isParsed && Enum.IsDefined(typeof(DayOfWeek), currentDay))
                 {
                     Console.WriteLine("Valid day of the week entered!");
                 }
