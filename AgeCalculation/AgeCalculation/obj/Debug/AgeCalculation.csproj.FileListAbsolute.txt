@@ -1,0 +1,8 @@
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\AgeCalculation\AgeCalculation\bin\Debug\AgeCalculation.exe.config
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\AgeCalculation\AgeCalculation\bin\Debug\AgeCalculation.exe
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\AgeCalculation\AgeCalculation\bin\Debug\AgeCalculation.pdb
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\AgeCalculation\AgeCalculation\obj\Debug\AgeCalculation.csproj.AssemblyReference.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\AgeCalculation\AgeCalculation\obj\Debug\AgeCalculation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\AgeCalculation\AgeCalculation\obj\Debug\AgeCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\AgeCalculation\AgeCalculation\obj\Debug\AgeCalculation.exe
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\AgeCalculation\AgeCalculation\obj\Debug\AgeCalculation.pdb
