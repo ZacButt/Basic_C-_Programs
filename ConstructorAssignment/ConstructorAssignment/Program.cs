@@ -28,9 +28,8 @@ namespace ConstructorAssignment
         public string Message { get; }
 
         // Constructor with no parameters
-        public MyClass()
+        public MyClass() : this("Default constructor")
         {
-            Message = "Default constructor";
         }
 
         // Constructor with a parameter
