@@ -1,0 +1,3 @@
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\InputAssignment\InputAssignment\obj\Debug\InputAssignment.csproj.AssemblyReference.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\InputAssignment\InputAssignment\obj\Debug\InputAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\InputAssignment\InputAssignment\obj\Debug\InputAssignment.csproj.CoreCompileInputs.cache
