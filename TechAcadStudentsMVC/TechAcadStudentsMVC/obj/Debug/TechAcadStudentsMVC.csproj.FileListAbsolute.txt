@@ -1,0 +1,8 @@
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\TechAcadStudentsMVC\TechAcadStudentsMVC\bin\Debug\TechAcadStudentsMVC.exe.config
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\TechAcadStudentsMVC\TechAcadStudentsMVC\bin\Debug\TechAcadStudentsMVC.exe
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\TechAcadStudentsMVC\TechAcadStudentsMVC\bin\Debug\TechAcadStudentsMVC.pdb
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\TechAcadStudentsMVC\TechAcadStudentsMVC\obj\Debug\TechAcadStudentsMVC.csproj.AssemblyReference.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\TechAcadStudentsMVC\TechAcadStudentsMVC\obj\Debug\TechAcadStudentsMVC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\TechAcadStudentsMVC\TechAcadStudentsMVC\obj\Debug\TechAcadStudentsMVC.csproj.CoreCompileInputs.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\TechAcadStudentsMVC\TechAcadStudentsMVC\obj\Debug\TechAcadStudentsMVC.exe
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\TechAcadStudentsMVC\TechAcadStudentsMVC\obj\Debug\TechAcadStudentsMVC.pdb
