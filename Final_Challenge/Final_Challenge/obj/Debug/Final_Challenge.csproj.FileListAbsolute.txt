@@ -1,0 +1,3 @@
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\Final_Challenge\Final_Challenge\obj\Debug\Final_Challenge.csproj.AssemblyReference.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\Final_Challenge\Final_Challenge\obj\Debug\Final_Challenge.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zac\Documents\GitHub\Basic_C-_Programs\Final_Challenge\Final_Challenge\obj\Debug\Final_Challenge.csproj.CoreCompileInputs.cache
